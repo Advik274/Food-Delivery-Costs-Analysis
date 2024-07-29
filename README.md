@@ -53,6 +53,9 @@ To run the analysis:
    ```bash
    pip install pandas jupyter
    ```
+   ```bash
+   pip install matplotlib jupyter
+   ```
 4. Open the Jupyter Notebook.
    ```bash
    jupyter notebook food delivery costs analysis.ipynb
