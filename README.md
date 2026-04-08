@@ -26,6 +26,7 @@ This project involves a comprehensive analysis of food delivery costs using a da
 - Python
 - Pandas
 - Jupyter Notebook
+- Matplotlib
 
 ## Visualizations
 
@@ -51,14 +52,11 @@ To run the analysis:
    ```
 3. Install the required dependencies.
    ```bash
-   pip install pandas jupyter
-   ```
-   ```bash
-   pip install matplotlib jupyter
+   pip install pandas jupyter matplotlib
    ```
 4. Open the Jupyter Notebook.
    ```bash
-   jupyter notebook food delivery costs analysis.ipynb
+   jupyter notebook "food delivery costs analysis.ipynb"
    ```
 
 ## Conclusion
