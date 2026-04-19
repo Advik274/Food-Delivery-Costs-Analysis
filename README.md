@@ -27,6 +27,7 @@ This project involves a comprehensive analysis of food delivery costs using a da
 - Pandas
 - Jupyter Notebook
 - Matplotlib
+- Seaborn
 
 ## Visualizations
 
@@ -52,7 +53,7 @@ To run the analysis:
    ```
 3. Install the required dependencies.
    ```bash
-   pip install pandas jupyter matplotlib
+   pip install pandas jupyter matplotlib seaborn
    ```
 4. Open the Jupyter Notebook.
    ```bash
