@@ -31,7 +31,7 @@ This project involves a comprehensive analysis of food delivery costs using a da
 
 ## Visualizations
 
-The project includes a pie graph to visually represent the distribution of delivery costs and related factors.
+The project includes visualizations such as a pie chart to represent the distribution of delivery costs and related factors.
 
 ## Files Included
 
@@ -63,3 +63,4 @@ To run the analysis:
 ## Conclusion
 
 This project has been an enriching experience, enhancing my data analysis skills and providing actionable insights into food delivery costs. These findings can significantly inform and optimize business strategies within the industry.
+
