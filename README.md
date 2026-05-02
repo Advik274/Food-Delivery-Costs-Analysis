@@ -62,5 +62,5 @@ To run the analysis:
 
 ## Conclusion
 
-This project has been an enriching experience, enhancing my data analysis skills and providing actionable insights into food delivery costs. These findings can significantly inform and optimize business strategies within the industry.
+This project has been an enriching experience, enhancing data analysis skills and providing actionable insights into food delivery costs. These findings can significantly inform and optimize business strategies within the industry.
 
